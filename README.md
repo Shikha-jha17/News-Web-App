@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Text-Analyser-new
+# News-Web-App
 =======
 # Getting Started with Create React App
 
