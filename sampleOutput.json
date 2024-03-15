@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Aya Nakamura: Paris Olympics culture row erupts as far right rages at French singer",
+      "description": "She is the world's most listened-to French female singer, but should Aya Nakamura perform at the Games?",
+      "url": "https://www.bbc.co.uk/news/world-europe-68552093",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10EDC/production/_132904396_gettyimages-1734632892.jpg",
+      "publishedAt": "2024-03-13T15:37:23.5830999Z",
+      "content": "She may be the most listened-to French female singer in the world, but is Aya Nakamura the right fit for the Paris Olympics? \r\nPresident Emmanuel Macron's reported idea that the 28-year-old Franco-Ma… [+4265 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Georgia judge dismisses some Trump criminal charges",
+      "description": "Mr Trump and 18 co-defendants were charged with trying to overturn Georgia's 2020 election result.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68557486",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CCF1/production/_132856425_gettyimages-2062148635.jpg",
+      "publishedAt": "2024-03-13T15:37:22.9894985Z",
+      "content": "The judge overseeing an election interference case against Donald Trump in Georgia has thrown out six criminal charges, but left most in place. \r\nFulton County Judge Scott McAfee dismissed key counts… [+1525 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Western Australia family missing for three days found alive in flooded outback",
+      "description": "The family - which included four children aged seven to 17 - had been missing for three days.",
+      "url": "https://www.bbc.co.uk/news/world-australia-68555845",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16BDE/production/_132905139_fce823ae-f9dd-41c3-8843-e7c3940a2b82.jpg",
+      "publishedAt": "2024-03-13T14:37:14.5255848Z",
+      "content": "A family who had gone missing in a remote, flooded region of Australia's outback have been found alive after a three-day search.\r\nThe family of seven had set off on Sunday, planning to travel 400 mil… [+1408 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Paul Alexander: 'Man in the iron lung' dies at the age of 78",
+      "description": "Paul Alexander worked as a lawyer and lived for decades in a metal cylinder which breathed for him.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68555051",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8430/production/_132904833_69219225_1667960617285420_r.jpg",
+      "publishedAt": "2024-03-13T14:22:16.9904334Z",
+      "content": "The polio survivor known as \"the man in the iron lung\" has died at the age of 78.\r\nPaul Alexander contracted polio in 1952 when he was six, leaving him paralysed from the neck down. \r\nThe disease lef… [+2091 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "China says TikTok ban would 'come back to bite' the US",
+      "description": "US lawmakers will vote on a bill that would force the app to cut Chinese ties or be banned in the US.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68554075",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/154BE/production/_132903278_gettyimages-2079118194.jpg",
+      "publishedAt": "2024-03-13T12:52:16.678661Z",
+      "content": "China has warned that a proposed ban on TikTok would \"come back to bite\" the US, ahead of a congressional vote that could lead to the app being banned.\r\nThe bill in the House of Representatives would… [+3053 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Why Mel B moved into her mum's bungalow in Leeds",
+      "description": "The Spice Girl is now back on her financial feet after losing her fortune",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68547357",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9218/production/_132900473_pa-75560892.jpg",
+      "publishedAt": "2024-03-13T08:37:19.6464335Z",
+      "content": "Melanie Brown made millions from the Spice Girls, but a few years ago, after leaving an abusive marriage, she was left with almost nothing. \r\nShe left California, returned home to Leeds and moved int… [+4477 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "How the US military plans to construct a pier and get food into Gaza",
+      "description": "The US has tapped a little-known private firm, Fogbow, to help manage distribution on the ground in Gaza.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68534370",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E915/production/_132896695_dock_976.jpg",
+      "publishedAt": "2024-03-13T07:52:13.9742298Z",
+      "content": "Media caption, Watch: US military footage illustrates Gaza pier plans\r\nA US plan to deliver aid to Gaza from a floating pier at sea will be fraught with potential logistical and security challenges.\r… [+6617 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Giant redwoods: World’s largest trees 'thriving in UK'",
+      "description": "A survey of giant redwoods growing in the UK reveals the trees are doing well - and growing fast.",
+      "url": "https://www.bbc.co.uk/news/science-environment-68518623",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EE81/production/_132875016_screenshot2024-03-08at21.20.39.png",
+      "publishedAt": "2024-03-13T02:22:15.1002002Z",
+      "content": "Giant redwoods - the world's largest trees - are flourishing in the UK and now even outnumber those found in their native range in California.\r\nThe giants were first brought to the UK about 160 years… [+4793 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The Koreans caught between enemy lines",
+      "description": "Taesung \"freedom\" village is mere metres away from North Korea as a beacon of peace but for how long?",
+      "url": "https://www.bbc.co.uk/news/uk-68505383",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6618/production/_132863162_promo-0h9a3551.jpg",
+      "publishedAt": "2024-03-13T00:52:09.4435801Z",
+      "content": "Gyung-ho and Mi-sun's is a classic love story. \r\nThey locked eyes at a party, and immediately felt a spark. They quickly fell in love, and Gyung-ho asked Mi-sun to move in with him. \r\nBut there was a… [+11821 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Fukuyama residents warned not to touch cat after chemical tank fall",
+      "description": "Fukuyama residents are told not to touch the animal after it fell into a tank of hexavalent chromium.",
+      "url": "https://www.bbc.co.uk/news/world-asia-68547839",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A01/production/_132898267_gettyimages-826812684.jpg",
+      "publishedAt": "2024-03-12T17:07:20.9485906Z",
+      "content": "Residents of a city in western Japan have been warned to stay away from a cat after it fell into a tank of poisonous chemicals. \r\nThe warning comes after a factory worker found yellow paw prints lead… [+1325 chars]"
+    }
+  ]
+}
